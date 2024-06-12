@@ -7,4 +7,4 @@ class Solution:
         return res
     
 solution = Solution()
-print(solution.missingNumber([0,0,1]))
+print(solution.missingNumber([3,0,1]))
